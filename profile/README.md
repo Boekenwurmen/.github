@@ -1,3 +1,12 @@
+# Members
+
+* **achraf** - *Developer* - []()
+* **Damian** - *On-site Customer* - []()
+* **Boaz** - *Tracker* - []()
+* **Saeed** - *Developer* - []()
+* **Gijs** - *Team Coach* - [CaptainPancakeWithBacon](https://github.com/CaptainPancakeWithBacon)
+
+
 # Vrijdag
 
 ### Branching model/workflow: t/m 2.4
@@ -30,6 +39,7 @@
 ![Unit tests](https://github.com/user-attachments/assets/d599f8bd-b265-4717-b906-5544e2ca6891)
 
 </details>
+
 
 
 
