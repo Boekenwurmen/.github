@@ -8,6 +8,14 @@
 
 </details>
 
+### Pipeline: 2.1
+<details>
+<summary>Klik om te bekijken</summary>
+
+![Pipeline](https://github.com/user-attachments/assets/57e3ca72-8626-435d-a9f4-a80c6879ef84)
+
+</details>
+
 ### Release management: 2.3? (6 dagen in sprint, 90 userstories)
 <details>
 <summary>Klik om te bekijken</summary>
@@ -24,10 +32,5 @@
 
 </details>
 
-### Pipeline: 2.1
-<details>
-<summary>Klik om te bekijken</summary>
 
-![Pipeline](https://github.com/user-attachments/assets/57e3ca72-8626-435d-a9f4-a80c6879ef84)
 
-</details>
