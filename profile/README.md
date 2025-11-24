@@ -2,7 +2,7 @@
 
 * **Achraf** - *Developer* - [AchrafEAE](https://github.com/AchrafEAE)
 * **Damian** - *On-site Customer* - []()
-* **Boaz** - *Tracker* - []()
+* **Boaz** - *Tracker* - [SP4CEBARsystems](https://github.com/SP4CEBARsystems)
 * **Saeed** - *Developer* - []()
 * **Gijs** - *Team Coach* - [CaptainPancakeWithBacon](https://github.com/CaptainPancakeWithBacon)
 
