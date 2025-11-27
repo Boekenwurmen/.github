@@ -24,7 +24,7 @@
 ![Pipeline](https://github.com/user-attachments/assets/c8de1253-ce67-4f89-ba60-5d2932959bae)
 </details>
 
-### Release management: Alleen (6 dagen in sprint, 90 userstories)
+### Release management: Alleen 2.3 (6 dagen in sprint, 90 userstories)
 <details>
 <summary>Klik om te bekijken</summary>
 
@@ -39,6 +39,7 @@
 ![Unit tests](https://github.com/user-attachments/assets/d599f8bd-b265-4717-b906-5544e2ca6891)
 
 </details>
+
 
 
 
