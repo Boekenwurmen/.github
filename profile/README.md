@@ -7,7 +7,7 @@
 * **Gijs** - *Team Coach* - [CaptainPancakeWithBacon](https://github.com/CaptainPancakeWithBacon)
 
 
-# Vrijdag
+# Vrijdag 28/11/2025
 
 ### Branching model/workflow: t/m 2.4
 <details>
@@ -39,6 +39,7 @@
 ![Unit tests](https://github.com/user-attachments/assets/d599f8bd-b265-4717-b906-5544e2ca6891)
 
 </details>
+
 
 
 
