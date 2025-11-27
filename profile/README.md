@@ -32,13 +32,14 @@
 
 </details>
 
-### Unit tests: 1.1 Meerdere
+### Unit tests: 1.1 Meerdere unit tests
 <details>
 <summary>Klik om te bekijken</summary>
 
 ![Unit tests](https://github.com/user-attachments/assets/d599f8bd-b265-4717-b906-5544e2ca6891)
 
 </details>
+
 
 
 
